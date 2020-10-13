@@ -42,3 +42,6 @@ Use the following numbers to change the colour:
 - Purple (255, 0, 255)
 - Orange (253, 153, 51)
 - Yellow (255, 255, 0)
+
+### Wiring diagram:
+![Microbit LED wiring diagram](https://github.com/Liatmoss/little_projects/blob/RainbowLeds/microbit/ShowRedLeds/LED_Wiring_Diagram.png)
